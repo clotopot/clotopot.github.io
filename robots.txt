@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://clotopot.github.io/sitemap.html.gz
+Sitemap: https://clotopot.github.io/app/sitemap.html.gz
+Sitemap: https://clotopot.github.io/assets/sitemap.html.gz
+Sitemap: https://clotopot.github.io/css/sitemap.html.gz
+Sitemap: https://clotopot.github.io/includes/sitemap.html.gz
+Sitemap: https://clotopot.github.io/item/sitemap.html.gz
+Sitemap: https://clotopot.github.io/src/sitemap.html.gz
